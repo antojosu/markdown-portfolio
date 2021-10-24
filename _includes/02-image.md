@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Nature](https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Independence-Lake-Clean-Drinking-Water_4000x2200.jpg?crop=1175,0,1650,2200&wid=600&hei=800&scl=2.75)
